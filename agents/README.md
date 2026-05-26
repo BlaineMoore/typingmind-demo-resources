@@ -6,6 +6,8 @@ The template used for the system model can be read in [the system-template markd
 
 To import each of these avatars:
 
+![TypingMind screenshot with arrows pointing at where to click to import an agent](./TypingMind_-_Importing_Agents.jpg)
+
 1. Click the **Agents** button in the side navigation.
 
 2. Click the *expand* arrow next to the **Create AI agent** button.
